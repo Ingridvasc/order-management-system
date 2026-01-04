@@ -1,0 +1,7 @@
+/**
+ * Rotas de autenticação
+ * Define endpoints públicos para registro e login
+ */
+declare const router: import("express-serve-static-core").Router;
+export default router;
+//# sourceMappingURL=auth.d.ts.map
